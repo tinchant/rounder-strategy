@@ -1,0 +1,9 @@
+A:\Usuários\Andre\Desktop\rounder-strategy\rounder-strategy\SampleDomain\bin\Debug\netcoreapp3.1\SampleDomain.deps.json
+A:\Usuários\Andre\Desktop\rounder-strategy\rounder-strategy\SampleDomain\bin\Debug\netcoreapp3.1\SampleDomain.dll
+A:\Usuários\Andre\Desktop\rounder-strategy\rounder-strategy\SampleDomain\bin\Debug\netcoreapp3.1\SampleDomain.pdb
+A:\Usuários\Andre\Desktop\rounder-strategy\rounder-strategy\SampleDomain\obj\Debug\netcoreapp3.1\SampleDomain.csprojAssemblyReference.cache
+A:\Usuários\Andre\Desktop\rounder-strategy\rounder-strategy\SampleDomain\obj\Debug\netcoreapp3.1\SampleDomain.csproj.CoreCompileInputs.cache
+A:\Usuários\Andre\Desktop\rounder-strategy\rounder-strategy\SampleDomain\obj\Debug\netcoreapp3.1\SampleDomain.AssemblyInfoInputs.cache
+A:\Usuários\Andre\Desktop\rounder-strategy\rounder-strategy\SampleDomain\obj\Debug\netcoreapp3.1\SampleDomain.AssemblyInfo.cs
+A:\Usuários\Andre\Desktop\rounder-strategy\rounder-strategy\SampleDomain\obj\Debug\netcoreapp3.1\SampleDomain.dll
+A:\Usuários\Andre\Desktop\rounder-strategy\rounder-strategy\SampleDomain\obj\Debug\netcoreapp3.1\SampleDomain.pdb
