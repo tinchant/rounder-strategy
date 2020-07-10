@@ -8,7 +8,7 @@ namespace SampleDomain
         {
             var proxy = numberToRound.ToString();
             var proxySub = proxy.Substring(proxy.Length - 2);
-            var valueToRound = decimal.Parse("0." + proxySub);
+            var valueToRound = decimal.Parse("0," + proxySub);
             var roundedNumber = Math.Round(valueToRound, 1);
             //transforma devolta em string e substitui no proxy
             //parde pra decimal e retorna
